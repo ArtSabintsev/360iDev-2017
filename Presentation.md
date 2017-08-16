@@ -222,7 +222,7 @@ Same exact app with multiple screens that needed Pull-To-Refresh with an onRefre
 # Being a Maintainer vs. Being a Consumer
 
 - I _rarely_ use Harpy and Siren
-  -  70,000+ combined monthly downloads
+  -  80,000+ combined monthly downloads
 - Consumers:
   - Report when the projects stop working
   - Request features
