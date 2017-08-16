@@ -18,7 +18,7 @@ theme: Plain Jane, 1
 
 # OSS Résumé
 
-![right 61%](assets/gitfame.png)
+![right 90%](assets/gitfame.png)
 
 - 1.3 million+ downloads via CocoaPods[^1]
 - 7,200+ stars on GitHub[^2]
